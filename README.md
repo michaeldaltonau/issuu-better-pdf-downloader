@@ -1,3 +1,6 @@
+> [!NOTE]
+> Since this library was written, Issuu has switched to `reader4`, a SVG renderer. The Protobuf-based `reader3` API used by this library still appears to function, but switching to a different project that uses SVG rendering will likely be more stable and give more accurate results.
+
 # issuu-better-pdf-downloader
 
 * Inspired by [jakeactually](https://github.com/jakeactually/issuu)'s work
